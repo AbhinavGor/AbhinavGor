@@ -26,7 +26,7 @@
   - Classification
   - Clustering
 - **Deep-Learning**
-  - Convulutional Neural Networks
+  - Convolutional Neural Networks
 
 ## What I'm Learning 📖
 - **Web Dev 🌐**
