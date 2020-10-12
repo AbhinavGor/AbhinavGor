@@ -35,7 +35,7 @@
   
 ## Numbers are always interesting
 
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=AbhinavGor&theme=tokyonight&show_icons=true)
+![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=AbhinavGor&show_icons=true&include_all_commits=true)
 
 
 <!--
