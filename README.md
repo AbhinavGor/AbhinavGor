@@ -26,15 +26,16 @@
   - Clustering
 - **Deep-Learning**
   - Convolutional Neural Networks
-
+<!--
 ## What I'm Learning 📖
 - **Web Dev 🌐**
   - Go Lang
 - **DevOps 📦**
   - Docker
-  
+-->
+<!--
 ## Numbers are always interesting
-
+-->
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=AbhinavGor&show_icons=true)
 
 
