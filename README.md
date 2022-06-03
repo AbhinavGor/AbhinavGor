@@ -7,7 +7,7 @@
  ## How to reach me 📫
  - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/abhinav-gorantla-71b5b01a3/)
  - 📧 abhinav20016@gmail.com
- 
+<!--  
  ## What I know :computer:
 - **Web Dev 🌐**
   - NodeJS
@@ -25,7 +25,7 @@
   - Classification
   - Clustering
 - **Deep-Learning**
-  - Convolutional Neural Networks
+  - Convolutional Neural Networks -->
 <!--
 ## What I'm Learning 📖
 - **Web Dev 🌐**
