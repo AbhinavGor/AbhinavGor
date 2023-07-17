@@ -5,9 +5,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;My primary interest is server side web development and DevOps. 
 
  ## Get in touch 📫
- - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/abhinav-gorantla-71b5b01a3/)
+ - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/abhinav-gorantla/)
  - 📧 abhinav20016@gmail.com
- - Download my resume <a href="https://abhinavgorantla.me/Abhinav_Resume.pdf">here</a>.
+ - Download my resume <a href="https://abhinavgorantla.me/[Abhinav_Resume.pdf](https://abhinavgorantla.me/AbhinavGorantla_July2023.pdf)">here</a>.
 <!--  
  ## What I know :computer:
 - **Web Dev 🌐**
