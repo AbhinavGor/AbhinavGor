@@ -6,5 +6,5 @@
 
  ## Get in touch 📫
  - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/abhinav-gorantla/)
- - Email at (abhinav20016@gmail.com)[mailto:abhinav20016@gmail.com] OR (agorantla@asu.edu)[mailto:agorantla@asu.edu]
+ - Email at abhinav20016@gmail.com OR agorantla@asu.edu
  - Download my resume (here)[https://abhinavgorantla.me/abhinav_gorantla_resume.pdf].
