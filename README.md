@@ -1,8 +1,6 @@
-# Hi there 👋
+# Hi 👋
+I am a computer science graduate student at Arizona State University, Tempe. I am interested in the fields of backend development, DevOps, artificial intelligence, and cloud computing, and I am striving to enhance my expertise in these fields. Currently, I am actively engaged in research in the fields of time series analysis and image processing. My other interests include backend development and DevOps. AiOps is something I want to work on in the future.
 
-## About me :mortar_board:
-&nbsp;&nbsp;&nbsp;&nbsp;I am currently pursuing an undergraduate degree in Computer Science at VIT University, Vellore. I am proficient in C++, C, Python, NodeJS, NestJS, JavaScript, TypeScript. I have worked on projects involving the use of MongoDB and MySQL databases. Projects that support the student and healthcare community using Machine Learning or a web-based application is what interests me the most.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;My primary interest is server side web development and DevOps. 
 
  ## Get in touch 📫
  - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/abhinav-gorantla/)
