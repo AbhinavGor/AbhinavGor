@@ -1,6 +1,5 @@
 # Hi 👋
-I am a computer science graduate student at [Arizona State University](https://asu.edu). I am interested in the fields of backend development, DevOps, artificial intelligence, and cloud computing, and I am striving to enhance my expertise in these fields. Currently, I am actively engaged in research in the fields of time series analysis and image processing. My other interests include backend development and DevOps. AiOps is something I want to work on in the future.
-
+I am a computer science graduate student at [Arizona State University](asu.edu). I am interested in the fields of causal machine learning and artificial intelligence, and I am striving to enhance my expertise in these fields. Currently, I am actively engaged in research in the field of causal machine learning. I am seeking PhD positions starting in Fall 2025 to further my academic career.
 
  ## Get in touch 📫
  - Email at [abhinav20016@gmail](abhinav20016@gmail).com OR [agorantla@asu.edu](agorantla@asu.edu)
